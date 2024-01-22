@@ -1,4 +1,7 @@
-![Uploading giphy.gif…]()
+<video controls>
+  <source src="https://github.com/vikas-kumar-7801/vikas-kumar-7801/assets/138841388/eda5e09d-737a-4958-95e4-d11c4103e762" type="video/mp4">
+  Your browser does not support HTML video.
+</video>
 <h1 align="center">Hi 👋, I'm Vikas Kumar</h1>
 <br>
 <img src="https://github.com/vikas-kumar-7801/vikas-kumar-7801/assets/138841388/2ce83baa-b301-40d9-9dad-3869a74b7071">
