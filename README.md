@@ -1,3 +1,4 @@
+![Uploading giphy.gif…]()
 <h1 align="center">Hi 👋, I'm Vikas Kumar</h1>
 <br>
 <img src="https://github.com/vikas-kumar-7801/vikas-kumar-7801/assets/138841388/2ce83baa-b301-40d9-9dad-3869a74b7071">
