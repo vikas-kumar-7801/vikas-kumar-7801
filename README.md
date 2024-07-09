@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **vikaskumar7801n@gmail.com**
 
-- ⚡ Fun fact **I am good at Physics.**
+- ⚡ Fun fact **I am good at Mathematics.**
 
 <br>
 <h3 align="left"> 🌐 Connect with me:</h3>
